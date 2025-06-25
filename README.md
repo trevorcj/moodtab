@@ -7,6 +7,8 @@ A calm new tab Chrome extension with:
 - 📝 Simple to-do list
 - 🎉 Confetti when you check everything off
 
+![MoodTab Screenshot](screenshot.png "Click to see full view")
+
 ## Features
 
 - Personalized greeting
