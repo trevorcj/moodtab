@@ -19,7 +19,7 @@ A calm new tab Chrome extension with:
 
 ## How to Install (Manual)
 
-1. [Download MoodTab as ZIP](https://your-landing-page-url.com/MoodTab.zip)
+1. [Download MoodTab as ZIP](https://moodtab-landing-page.vercel.app//assets/moodTab_extension.zip)
 2. Unzip the folder
 3. Open `chrome://extensions`
 4. Enable **Developer Mode**
